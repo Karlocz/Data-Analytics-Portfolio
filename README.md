@@ -89,4 +89,5 @@ The purpose of this repository is to continuously improve my data analysis skill
 
 If you'd like to connect or discuss data analytics opportunities, feel free to reach out.
 
-LinkedIn: (your profile here)
+LinkedIn: https://www.linkedin.com/in/carlos-maximino/
+
